@@ -1,2 +1,6 @@
 # ReactPageCreation
-A Page Creation For React with Typescript And Webpack
+
+## Description
+
+> This project is a simple example of how to create a page in React.
+
