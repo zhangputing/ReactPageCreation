@@ -58,7 +58,7 @@ npm install
 1.npm build
 
 > Build the pages from the typescript to javascript.<br>
-> And the styles from the scss to css.
+> And the styles from the scss to css.<br>
 
 | src folder         | dist folder |
 | ------------------ | ----------- |
@@ -67,9 +67,9 @@ npm install
 2.npm start
 
 > Start the server.<br>
-> host: http://localhost:8080/
-> port: 8080
-> path: /html/
+> host: http://localhost:8080/<br>
+> port: 8080<br>
+> path: /html/<br>
 
 3.npm debug
 
